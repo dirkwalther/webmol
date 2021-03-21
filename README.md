@@ -7,11 +7,11 @@ For help/insructions, see "Help"
 
 Reference:
 WebMol--a Java-based PDB viewer.
-D Walther
+D Walther,
 Trends in biochemical sciences 22 (7), 274-275
 
 Source code available upon request.
-WebMol was developed at the EMBL and UCSF in the years 1996-1999
+WebMol was developed at the EMBL (Heidelberg, Germany) and UCSF (San Francisoco, USA) in the years 1996-1999
 
-Author: Dirk Watlther
+Author: Dirk Walther
 walther@mpimp-golm.mpg.de
