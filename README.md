@@ -1,7 +1,7 @@
-# webmol
+# WebMol
 Java-based protein viewer and analysis program
 
-Launch webmol (Windows: double click on jar file, Linux: java -jar webmol.jar)
+Launch WebMol (Windows: double click on jar file, Linux: java -jar webmol.jar)
 Load structure in PDB-file format, either by invoking "Open" or, under Linux, as a parameter: java -jar webmol.jar <pdb-file>
 For help/insructions, see "Help"
 
