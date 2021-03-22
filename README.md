@@ -4,7 +4,7 @@ Java-based protein viewer and analysis program
 Launch WebMol (Windows: double click on jar file, Linux: java -jar webmol.jar)
 Load structure in PDB-file format, either by invoking "Open" or, 
 under Linux, as a parameter: java -jar webmol.jar <pdb-file><p>
-  Example: java -jar webmol.jar https://files.rcsb.org/view/4HHB.pdb
+  Example: java -jar webmol.jar https://files.rcsb.org/view/4HHB.pdb<p>
 For help/instructions, see "Help"
 
 Reference:
