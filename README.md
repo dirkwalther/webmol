@@ -2,7 +2,9 @@
 Java-based protein viewer and analysis program
 
 Launch WebMol (Windows: double click on jar file, Linux: java -jar webmol.jar)
-Load structure in PDB-file format, either by invoking "Open" or, under Linux, as a parameter: java -jar webmol.jar <pdb-file>
+Load structure in PDB-file format, either by invoking "Open" or, 
+under Linux, as a parameter: java -jar webmol.jar <pdb-file>
+  Example: 
 For help/insructions, see "Help"
 
 Reference:
@@ -15,3 +17,10 @@ WebMol was developed at the EMBL (Heidelberg, Germany) and UCSF (San Francisoco,
 
 Author: Dirk Walther
 walther@mpimp-golm.mpg.de
+
+<b>Unique features, highlights</b>
+  - Analysis of packing geometries of secondary structural elements (axes and angles)
+  - surface and cavity computations, including surface and volume area computation
+  - interactive distance matrix and Ramachandran plots
+
+![Screenshot](webmol.jpg)
