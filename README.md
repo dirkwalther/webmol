@@ -23,4 +23,4 @@ walther@mpimp-golm.mpg.de
   - surface and cavity computations, including surface and volume area computation
   - interactive distance matrix and Ramachandran plots, with differential Ramachandran map as reference (see https://pubmed.ncbi.nlm.nih.gov/10089363/)
 
-![Screenshot](webmol3.png)
+![Screenshot](webmol4.png)
