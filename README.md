@@ -8,9 +8,7 @@ under Linux, as a parameter: java -jar webmol.jar <pdb-file>
 For help/instructions, see "Help"
 
 Reference:
-WebMol--a Java-based PDB viewer.
-D Walther,
-Trends in biochemical sciences 22 (7), 274-275
+Walther, D (1997) WebMol--a Java-based PDB viewer. Trends in biochemical sciences 22 (7), 274-275
 
 Source code available upon request.
 WebMol was developed at the EMBL (Heidelberg, Germany) and UCSF (San Francisoco, USA) in the years 1996-1999
