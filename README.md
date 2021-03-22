@@ -4,8 +4,8 @@ Java-based protein viewer and analysis program
 Launch WebMol (Windows: double click on jar file, Linux: java -jar webmol.jar)
 Load structure in PDB-file format, either by invoking "Open" or, 
 under Linux, as a parameter: java -jar webmol.jar <pdb-file>
-  Example: 
-For help/insructions, see "Help"
+  Example: java -jar webmol.jar https://files.rcsb.org/view/4HHB.pdb
+For help/instructions, see "Help"
 
 Reference:
 WebMol--a Java-based PDB viewer.
@@ -23,4 +23,4 @@ walther@mpimp-golm.mpg.de
   - surface and cavity computations, including surface and volume area computation
   - interactive distance matrix and Ramachandran plots
 
-![Screenshot](webmol.jpg)
+![Screenshot](webmol.png)
