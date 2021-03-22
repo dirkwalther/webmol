@@ -19,7 +19,7 @@ Author: Dirk Walther
 walther@mpimp-golm.mpg.de
 
 <b>Unique features, highlights</b>
-  - Analysis of packing geometries of secondary structural elements (axes and angles)
+  - Analysis of packing geometries of secondary structural elements (axes, distances, and angles)
   - surface and cavity computations, including surface and volume area computation
   - interactive distance matrix and Ramachandran plots, with differential Ramachandran map as reference (see https://pubmed.ncbi.nlm.nih.gov/10089363/)
 
