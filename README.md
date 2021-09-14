@@ -34,9 +34,6 @@ walther@mpimp-golm.mpg.de
 
 WebMol API
 	
-<title>
-  Class webmol 
-</title>
 </head>
 <body>
 <a name="_top_"></a>
@@ -63,12 +60,12 @@ java.lang.Object
 </dl>
 <pre>
 WebMol - Java PDB structure viewing and analysis program
-Author: Dirk Walther (walther@cmpharm.ucsf.edu)
+Author: Dirk Walther (walther@mpimp-golm.mpg.de)
 Version March 10, 1998<p>
   European Molecular Biology Laboratory (EMBL)
   June 1996-March 1997
   University of California, San Francisco (UCSF)
-  April 1997-<p>
+  April 1997-1999<p>
 Reference:
   Walther D. (1997) WebMol - a Java based PDB viewer.
   Trends Biochem Sci, 22: 274-275<p>
@@ -89,7 +86,6 @@ public static void main(String args[])
   {
     int num,add=1,col;
     
-
     webmol wm=new webmol("pdb1ppt.ent",700,600);
     // webmol wm=new webmol("http://www.embl-heidelberg.de/~walther/JAVA/pdb/1ppt.brk",700,600);
     // reads it across the web
