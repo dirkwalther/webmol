@@ -133,7 +133,7 @@ public static void main(String args[])
 <hr>
 <a name="index"></a>
 <h2>
-  <img src="images/variable-index.gif" width=207 height=38 alt="Variable Index">
+  <"Variable Index">
 </h2>
 <dl>
   <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
