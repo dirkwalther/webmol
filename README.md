@@ -93,7 +93,7 @@ public static void main(String args[])
     webmol wm=new webmol("pdb1ppt.ent",700,600);
     // webmol wm=new webmol("http://www.embl-heidelberg.de/~walther/JAVA/pdb/1ppt.brk",700,600);
     // reads it across the web
-    // webmol wm=new webmol("ftp://pdb.pdb.bnl.gov//fullrelease/uncompressed_files/pp/pdb1ppt.ent",700,600);
+    // webmol wm=new webmol("https://files.rcsb.org/view/1PPT.pdb",700,600);
     // reads it from PDB directly
 
     num=wm.getNumberOfResidues(); 
