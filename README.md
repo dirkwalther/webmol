@@ -71,9 +71,7 @@ Version March 10, 1998<p>
 Reference:
   Walther D. (1997) WebMol - a Java based PDB viewer.
   Trends Biochem Sci, 22: 274-275<p>
-WWW: 
-  http://www.cmpharm.ucsf.edu/cgi-bin/webmol.pl
-  or http://www.embl-heidelberg.de/cgi/viewer.pl
+
 </pre>
 <p>
 <hr>
