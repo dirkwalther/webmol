@@ -430,7 +430,7 @@ will be exited.
 </dl>
 <a name="methods"></a>
 <h2>
-  <img src="images/methods.gif" width=151 height=38 alt="Methods">
+  Methods
 </h2>
 <a name="close()"><img src="images/red-ball.gif" width=12 height=12 alt=" o "></a>
 <a name="close"><b>close</b></a>
