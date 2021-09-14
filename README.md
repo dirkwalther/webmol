@@ -136,19 +136,19 @@ public static void main(String args[])
 <dl>
 	<a href="#blue"><b>blue</b></a>
   <dd> Color to apply for selection highlighting
-  <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#current"><b>current</b></a>
   <dd> Color to apply for selection highlighting
-  <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#cyan"><b>cyan</b></a>
   <dd> Color to apply for selection highlighting
-  <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#gray"><b>gray</b></a>
   <dd> Color to apply for selection highlighting
-  <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#lilac"><b>lilac</b></a>
   <dd> Color to apply for selection highlighting
-  <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#orange"><b>orange</b></a>
   <dd> Color to apply for selection highlighting
   <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
