@@ -134,7 +134,6 @@ public static void main(String args[])
 <a name="index"></a>
 <h2>Variable Index</h2>
 <dl>
-  <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
 	<a href="#blue"><b>blue</b></a>
   <dd> Color to apply for selection highlighting
   <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
