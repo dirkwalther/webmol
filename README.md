@@ -132,9 +132,7 @@ public static void main(String args[])
 
 <hr>
 <a name="index"></a>
-<h2>
-  <"Variable Index">
-</h2>
+<h2>Variable Index</h2>
 <dl>
   <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
 	<a href="#blue"><b>blue</b></a>
@@ -181,7 +179,7 @@ public static void main(String args[])
 
 </dl>
 <h2>
-  <img src="images/constructor-index.gif" width=275 height=38 alt="Constructor Index">
+  Constructor Index
 </h2>
 <dl>
   <dt> <img src="images/yellow-ball-small.gif" width=6 height=6 alt=" o ">
@@ -251,7 +249,7 @@ i.e.
 </dl>
 <a name="variables"></a>
 <h2>
-  <img src="images/variables.gif" width=153 height=38 alt="Variables">
+  Variables
 </h2>
 <a name="THICK"><img src="images/blue-ball.gif" width=12 height=12 alt=" o "></a>
 <b>THICK</b>
