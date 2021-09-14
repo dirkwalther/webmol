@@ -197,7 +197,7 @@ will be exited.
   <dd> 
 </dl>
 <h2>
-  <img src="images/method-index.gif" width=207 height=38 alt="Method Index">
+  Method Index
 </h2>
 <dl>
   <dt> <img src="images/red-ball-small.gif" width=6 height=6 alt=" o ">
@@ -365,7 +365,7 @@ i.e.
 </dl>
 <a name="constructors"></a>
 <h2>
-  <img src="images/constructors.gif" width=231 height=38 alt="Constructors">
+  Constructors
 </h2>
 <a name="webmol"></a>
 <a name="webmol(java.lang.String, boolean, int, int)"><img src="images/yellow-ball.gif" width=12 height=12 alt=" o "></a>
