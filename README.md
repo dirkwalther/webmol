@@ -96,15 +96,11 @@ public static void main(String args[])
     // webmol wm=new webmol("ftp://pdb.pdb.bnl.gov//fullrelease/uncompressed_files/pp/pdb1ppt.ent",700,600);
     // reads it from PDB directly
 
-
     num=wm.getNumberOfResidues(); 
-
     int res=0;
     
     for(int j=0;j<2*num;j++)
-    {
-
-           
+    {     
       if(wm.getResidueType(res)=='P') // if amino acid = proline then color yellow
         col=wm.yellow;
       else
@@ -124,9 +120,6 @@ public static void main(String args[])
       res+=add;
     }
     wm.close(true);
-    
-  
-    
   }
 }
 </pre>
