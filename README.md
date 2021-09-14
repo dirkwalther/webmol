@@ -151,28 +151,28 @@ public static void main(String args[])
   <dt> 
 	<a href="#orange"><b>orange</b></a>
   <dd> Color to apply for selection highlighting
-  <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#pink"><b>pink</b></a>
   <dd> Color to apply for selection highlighting
-  <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#red"><b>red</b></a>
   <dd> Color to apply for selection highlighting
-  <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#yellow"><b>yellow</b></a>
   <dd> Color to apply for selection highlighting
-  <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#SELECTED_ONLY"><b>SELECTED_ONLY</b></a>
   <dd> Select method
-  <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#SIDECHAIN_VS_BACKBONE"><b>SIDECHAIN_VS_BACKBONE</b></a>
   <dd> Select method
-  <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#SIDECHAIN_VS_SIDECHAIN"><b>SIDECHAIN_VS_SIDECHAIN</b></a>
   <dd> Select method
-  <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#THICK"><b>THICK</b></a>
   <dd> thick lines
-  <dt> <img src="images/blue-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt>
 	<a href="#THIN"><b>THIN</b></a>
   <dd> thin lines
 
@@ -181,17 +181,17 @@ public static void main(String args[])
   Constructor Index
 </h2>
 <dl>
-  <dt> <img src="images/yellow-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#webmol(java.lang.String)"><b>webmol</b></a>(String)
   <dd> launching WebMol with default width and height, upon closing the WebMol frame all Java programs
 will be exited.
-  <dt> <img src="images/yellow-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#webmol(java.lang.String, boolean)"><b>webmol</b></a>(String, boolean)
   <dd> 
-  <dt> <img src="images/yellow-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#webmol(java.lang.String, boolean, int, int)"><b>webmol</b></a>(String, boolean, int, int)
   <dd> 
-  <dt> <img src="images/yellow-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt>
 	<a href="#webmol(java.lang.String, int, int)"><b>webmol</b></a>(String, int, int)
   <dd> 
 </dl>
@@ -199,50 +199,50 @@ will be exited.
   Method Index
 </h2>
 <dl>
-  <dt> <img src="images/red-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#close()"><b>close</b></a>()
   <dd> close WebMol
 
-  <dt> <img src="images/red-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#close(boolean)"><b>close</b></a>(boolean)
   <dd> close Webmol and exit (exit=true)/ not exit (exit=false) all current Java programs under which WebMol was running
 
-  <dt> <img src="images/red-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#getChainID(int)"><b>getChainID</b></a>(int)
   <dd> returns the chain identifier of residue res 
 
-  <dt> <img src="images/red-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#getNumberOfResidues()"><b>getNumberOfResidues</b></a>()
   <dd> returns the number of amino acid residues in the current protein structure
-  <dt> <img src="images/red-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#getPDBSeqNum(int)"><b>getPDBSeqNum</b></a>(int)
   <dd> returns the PDB sequence number of residue res as it may differ
 from the consecutive enumeration used by WebMol
 
-  <dt> <img src="images/red-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#getResidueType(int)"><b>getResidueType</b></a>(int)
   <dd> returns the amino acid type (one-letter code) of residue res 
 
  
 
-  <dt> <img src="images/red-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#redraw()"><b>redraw</b></a>()
   <dd> redraw the structure in the WebMol main window
 
-  <dt> <img src="images/red-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#redraw(int)"><b>redraw</b></a>(int)
   <dd> redraw the structure in the WebMol main window
 
 
-  <dt> <img src="images/red-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#select(int, int, int, int)"><b>select</b></a>(int, int, int, int)
   <dd> select a single residue, enumeration of residues is in consecutive order;
 i.e.
-  <dt> <img src="images/red-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt>
 	<a href="#unselect(int)"><b>unselect</b></a>(int)
   <dd> unselect residue
 
-  <dt> <img src="images/red-ball-small.gif" width=6 height=6 alt=" o ">
+  <dt> 
 	<a href="#unselectAll()"><b>unselectAll</b></a>()
   <dd> undo all selections
 </dl>
@@ -250,7 +250,7 @@ i.e.
 <h2>
   Variables
 </h2>
-<a name="THICK"><img src="images/blue-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="THICK"></a>
 <b>THICK</b>
 <pre>
  public static final int THICK
@@ -258,7 +258,7 @@ i.e.
 <dl>
   <dd> thick lines<p>
 </dl>
-<a name="THIN"><img src="images/blue-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="THIN"></a>
 <b>THIN</b>
 <pre>
  public static final int THIN
@@ -266,7 +266,7 @@ i.e.
 <dl>
   <dd> thin lines<p>
 </dl>
-<a name="current"><img src="images/blue-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="current"></a>
 <b>current</b>
 <pre>
  public static final int current
@@ -274,7 +274,7 @@ i.e.
 <dl>
   <dd> Color to apply for selection highlighting<p>
 </dl>
-<a name="red"><img src="images/blue-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="red"></a>
 <b>red</b>
 <pre>
  public static final int red
@@ -282,7 +282,7 @@ i.e.
 <dl>
   <dd> Color to apply for selection highlighting<p>
 </dl>
-<a name="blue"><img src="images/blue-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="blue"></a>
 <b>blue</b>
 <pre>
  public static final int blue
@@ -290,7 +290,7 @@ i.e.
 <dl>
   <dd> Color to apply for selection highlighting<p>
 </dl>
-<a name="yellow"><img src="images/blue-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="yellow"></a>
 <b>yellow</b>
 <pre>
  public static final int yellow
@@ -298,7 +298,7 @@ i.e.
 <dl>
   <dd> Color to apply for selection highlighting<p>
 </dl>
-<a name="lilac"><img src="images/blue-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="lilac"></a>
 <b>lilac</b>
 <pre>
  public static final int lilac
@@ -306,7 +306,7 @@ i.e.
 <dl>
   <dd> Color to apply for selection highlighting<p>
 </dl>
-<a name="gray"><img src="images/blue-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="gray"></a>
 <b>gray</b>
 <pre>
  public static final int gray
@@ -314,7 +314,7 @@ i.e.
 <dl>
   <dd> Color to apply for selection highlighting<p>
 </dl>
-<a name="pink"><img src="images/blue-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="pink"></a>
 <b>pink</b>
 <pre>
  public static final int pink
@@ -322,7 +322,7 @@ i.e.
 <dl>
   <dd> Color to apply for selection highlighting<p>
 </dl>
-<a name="cyan"><img src="images/blue-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="cyan"></a>
 <b>cyan</b>
 <pre>
  public static final int cyan
@@ -330,7 +330,7 @@ i.e.
 <dl>
   <dd> Color to apply for selection highlighting<p>
 </dl>
-<a name="orange"><img src="images/blue-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="orange"></a>
 <b>orange</b>
 <pre>
  public static final int orange
@@ -338,7 +338,7 @@ i.e.
 <dl>
   <dd> Color to apply for selection highlighting<p>
 </dl>
-<a name="SELECTED_ONLY"><img src="images/blue-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="SELECTED_ONLY"></a>
 <b>SELECTED_ONLY</b>
 <pre>
  public static final int SELECTED_ONLY
@@ -346,7 +346,7 @@ i.e.
 <dl>
   <dd> Select method<p>
 </dl>
-<a name="SIDECHAIN_VS_BACKBONE"><img src="images/blue-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="SIDECHAIN_VS_BACKBONE"></a>
 <b>SIDECHAIN_VS_BACKBONE</b>
 <pre>
  public static final int SIDECHAIN_VS_BACKBONE
@@ -354,7 +354,7 @@ i.e.
 <dl>
   <dd> Select method<p>
 </dl>
-<a name="SIDECHAIN_VS_SIDECHAIN"><img src="images/blue-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="SIDECHAIN_VS_SIDECHAIN"></a>
 <b>SIDECHAIN_VS_SIDECHAIN</b>
 <pre>
  public static final int SIDECHAIN_VS_SIDECHAIN
@@ -367,7 +367,7 @@ i.e.
   Constructors
 </h2>
 <a name="webmol"></a>
-<a name="webmol(java.lang.String, boolean, int, int)"><img src="images/yellow-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="webmol(java.lang.String, boolean, int, int)"></a>
 <b>webmol</b>
 <pre>
  public webmol(String Protein,
@@ -385,7 +385,7 @@ true: close WebMol only, false: close WebMol and all Java programs under which W
     <dd> height - frame height
   </dl></dd>
 </dl>
-<a name="webmol(java.lang.String, int, int)"><img src="images/yellow-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="webmol(java.lang.String, int, int)"></a>
 <b>webmol</b>
 <pre>
  public webmol(String Protein,
@@ -400,7 +400,7 @@ true: close WebMol only, false: close WebMol and all Java programs under which W
     <dd> height - height of the WebMol frame
   </dl></dd>
 </dl>
-<a name="webmol(java.lang.String)"><img src="images/yellow-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="webmol(java.lang.String)"></a>
 <b>webmol</b>
 <pre>
  public webmol(String Protein)
@@ -414,7 +414,7 @@ will be exited.
     <dd> Protein - PDB-file
   </dl></dd>
 </dl>
-<a name="webmol(java.lang.String, boolean)"><img src="images/yellow-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="webmol(java.lang.String, boolean)"></a>
 <b>webmol</b>
 <pre>
  public webmol(String Protein,
@@ -431,7 +431,7 @@ will be exited.
 <h2>
   Methods
 </h2>
-<a name="close()"><img src="images/red-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="close()"></a>
 <a name="close"><b>close</b></a>
 <pre>
  public void close()
@@ -440,7 +440,7 @@ will be exited.
   <dd> close WebMol
 <p>
 </dl>
-<a name="close(boolean)"><img src="images/red-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="close(boolean)"></a>
 <a name="close"><b>close</b></a>
 <pre>
  public void close(boolean exit)
@@ -455,7 +455,7 @@ will be exited.
 </dl>
 
 
-<a name="select(int, int, int, int)"><img src="images/red-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="select(int, int, int, int)"></a>
 <a name="select"><b>select</b></a>
 <pre>
  public void select(int res,
@@ -476,7 +476,7 @@ SELECTED_ONLY (display selected residues only), SIDECHAIN_VS_BACKBONE (display s
     <dd> thick - line thickness (THICK or THIN)
   </dl></dd>
 </dl>
-<a name="unselect(int)"><img src="images/red-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="unselect(int)"></a>
 <a name="unselect"><b>unselect</b></a>
 <pre>
  public void unselect(int res)
@@ -489,7 +489,7 @@ SELECTED_ONLY (display selected residues only), SIDECHAIN_VS_BACKBONE (display s
     <dd> res - residue number
   </dl></dd>
 </dl>
-<a name="unselectAll()"><img src="images/red-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="unselectAll()"></a>
 <a name="unselectAll"><b>unselectAll</b></a>
 <pre>
  public void unselectAll()
@@ -498,7 +498,7 @@ SELECTED_ONLY (display selected residues only), SIDECHAIN_VS_BACKBONE (display s
   <dd> undo all selections
 <p>
 </dl>
-<a name="getNumberOfResidues()"><img src="images/red-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="getNumberOfResidues()"></a>
 <a name="getNumberOfResidues"><b>getNumberOfResidues</b></a>
 <pre>
  public int getNumberOfResidues()
@@ -507,7 +507,7 @@ SELECTED_ONLY (display selected residues only), SIDECHAIN_VS_BACKBONE (display s
   <dd> returns the number of amino acid residues in the current protein structure
 <p>
 </dl>
-<a name="getPDBSeqNum(int)"><img src="images/red-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="getPDBSeqNum(int)"></a>
 <a name="getPDBSeqNum"><b>getPDBSeqNum</b></a>
 <pre>
  public int getPDBSeqNum(int res)
@@ -521,7 +521,7 @@ from the consecutive enumeration used by WebMol
     <dd> res - residue (consecutive order)
   </dl></dd>
 </dl>
-<a name="getResidueType(int)"><img src="images/red-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="getResidueType(int)"></a>
 <a name="getResidueType"><b>getResidueType</b></a>
 <pre>
  public char getResidueType(int res)
@@ -534,7 +534,7 @@ from the consecutive enumeration used by WebMol
     <dd> res - residue (consecutive order)
   </dl></dd>
 </dl>
-<a name="getChainID(int)"><img src="images/red-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="getChainID(int)"></a>
 <a name="getChainID"><b>getChainID</b></a>
 <pre>
  public char getChainID(int res)
@@ -547,7 +547,7 @@ from the consecutive enumeration used by WebMol
     <dd> res - residue (consecutive order)
   </dl></dd>
 </dl>
-<a name="redraw(int)"><img src="images/red-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="redraw(int)"></a>
 <a name="redraw"><b>redraw</b></a>
 <pre>
  public void redraw(int delay)
@@ -560,7 +560,7 @@ from the consecutive enumeration used by WebMol
     <dd> delay - redraw after <delay> milliseconds
   </dl></dd>
 </dl>
-<a name="redraw()"><img src="images/red-ball.gif" width=12 height=12 alt=" o "></a>
+<a name="redraw()"></a>
 <a name="redraw"><b>redraw</b></a>
 <pre>
  public void redraw()
