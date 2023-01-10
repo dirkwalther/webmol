@@ -1,5 +1,5 @@
 # WebMol
-Java-based protein viewer and analysis program
+Java-based protein structure viewer and analysis program
 
 Launch WebMol (Windows: double click on jar file, Linux: java -jar webmol.jar)
 Load structure in PDB-file format, either by invoking "Open" or, 
